@@ -1,0 +1,45 @@
+body {margin:0 0 0 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Asap';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Asap Italic'), local('Asap-Italic'), url(https://themes.googleusercontent.com/static/fonts/asap/v2/QnZU7dKCBgkkMBlac2djsOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+    background: url("../img/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;}
+.nav{background-color: white}
+div.row{margin: 0px}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    }
+.navex{
+    position: fixed;
+    }
+.sect_register{
+    padding-top: 100px;
+    }
+.sect{
+    padding-top: 100px;
+    height: 700px;
+    }
+@media (max-width: 560px) {
+    #brand{
+        display: none;
+        }
+    }
+#mc_embed_signup{
+    background:#fff;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif; }
+
+.teampic{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 90px;
+    }
+/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
