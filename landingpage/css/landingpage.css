@@ -58,13 +58,16 @@ section.schedule.home-item .day {
     width: 240px; float: left; display: inline; padding: 0;
 }
 section.schedule.home-item .timeframe {
-    width: 240px; float: left; display: inline; padding: 0;
+    width: 240px; float: left; display: inline; padding: 10px;
 }
 section.schedule.home-item .day h3 {
     text-align: center; padding: 15px 20px;
 }
 section.schedule.home-item .timeframe h3 {
     text-align: center; padding: 15px 20px;
+}
+section.schedule.home-item .timeframe h3 {
+    text-align: center; padding: 35px 20px;
 }
 section.schedule.home-item .day.alt {
     background: rgba(0, 0, 0, 0.02);
@@ -103,6 +106,9 @@ section.schedule.home-item .day ul.events li span {
 }
 section.schedule.home-item .day ul.events li span {
     *display: inline;
+}
+.clear {
+    clear: both;
 }
 
 .team-detail {
