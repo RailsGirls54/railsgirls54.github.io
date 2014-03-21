@@ -35,7 +35,7 @@
 <script>
     $('body').scrollspy({ target: '.navbar-top' });
     $(document).ready(function(){
-        $("#top-nav ul li a[href^='#']").on('click', function(e) {
+        $(".navbar-top ul li a[href^='#']").on('click', function(e) {
             e.preventDefault();
             $('html, body').animate({ scrollTop: $(this.hash).offset().top }, 300);
             // edit: Opera and IE requires the "html" elm. animated
