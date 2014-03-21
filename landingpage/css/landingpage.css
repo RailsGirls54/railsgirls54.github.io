@@ -38,9 +38,10 @@ p{font-size: 1.25em;}
     font:14px Helvetica,Arial,sans-serif; }
 
 .teampic{
-    float: left;
+    /*float: left;
     margin-right: 30px;
-    margin-bottom: 90px;
+    margin-bottom: 90px;*/
+    margin-bottom: 25px;
     }
 /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
@@ -105,4 +106,13 @@ section.schedule.home-item .day ul.events li span {
 }
 section.schedule.home-item .day ul.events li span {
     *display: inline;
+}
+
+.team-detail {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+ul.nav a {
+    color: black;
 }
