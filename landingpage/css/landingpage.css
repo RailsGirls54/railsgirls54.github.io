@@ -23,7 +23,7 @@ p{font-size: 1.25em;}
     padding-top: 100px;
     height: 700px;
     }
-@media (max-width: 840px) {
+@media (max-width: 860px) {
     #brand{
         display: none;
         }
@@ -80,11 +80,7 @@ section.schedule.home-item .timeframe ul.events {
 section.schedule.home-item .day ul.events li {
     padding: 1.0em 10px; vertical-align: top;
 }
-section.schedule.home-item .day ul.events li time {
-    display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block;
-    vertical-align: middle; *vertical-align: auto; vertical-align: top;
-    color: #9199a3; width: 60px; margin: 0 10px; font-size: 12px;
-}
+
 section.schedule.home-item .timeframe ul.events p {
     text-align: center;
 }
@@ -95,11 +91,7 @@ section.schedule.home-item .timeframe ul.events li time {
 section.schedule.home-item .day ul.events li time {
     *display: inline;
 }
-section.schedule.home-item .day ul.events li span {
-    display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block;
-    vertical-align: middle; *vertical-align: auto; vertical-align: top;
-    width: 130px;
-}
+
 section.schedule.home-item .day ul.events li span {
     *display: inline;
 }
