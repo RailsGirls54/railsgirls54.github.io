@@ -11,13 +11,13 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 </head>
-<body data-target="#top-nav" data-spy="scroll">
+<body data-spy="scroll" data-target=".navbar-top" >
 <div id="mc_embed_signup" class="hide sect_register" ng-include="'html/mailchimp.html'"></div>
 
-<div id="top-nav" style="height: 60px;" class="sticky-nav nav"  >
+<div style="height: 60px;" class="sticky-nav nav navbar-top"  >
     &nbsp;
-    <ul data-spy="affix" class="nav nav-tabs navbar-fixed-top navex" style="padding: 10px;"  data-offset-top="100"
-        id="affix">
+    <ul  class="nav nav-tabs navbar-fixed-top navex" style="padding: 10px;"  data-offset-top="100"
+        >
         <li class="active"><a href="#about">About</a></li>
         <li><a href="#events" >Events</a></li>
         <li><a href="#program" >Program</a></li>
@@ -33,6 +33,7 @@
 <div id="coaches" class="row sect" ng-include="'html/coaches.html'"></div>
 </body>
 <script>
+    $('body').scrollspy({ target: '.navbar-top' });
     $(document).ready(function(){
         $("#top-nav ul li a[href^='#']").on('click', function(e) {
             e.preventDefault();
