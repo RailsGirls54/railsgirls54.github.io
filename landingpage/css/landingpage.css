@@ -5,7 +5,7 @@ body {margin:0 0 0 0;
     font-style: italic;
     font-weight: 400;
     src: local('Asap Italic'), local('Asap-Italic'), url(https://themes.googleusercontent.com/static/fonts/asap/v2/QnZU7dKCBgkkMBlac2djsOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
-    padding:0 30 0 30}
+    padding:0 30 0 30;}
 .nav{background-color: #D3360B;}
 div.row{margin: 0px}
 p{font-size: 1.25em;}
@@ -23,7 +23,7 @@ p{font-size: 1.25em;}
     padding-top: 100px;
     height: 700px;
     }
-@media (max-width: 560px) {
+@media (max-width: 840px) {
     #brand{
         display: none;
         }
