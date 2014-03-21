@@ -5,11 +5,7 @@ body {margin:0 0 0 0;
     font-style: italic;
     font-weight: 400;
     src: local('Asap Italic'), local('Asap-Italic'), url(https://themes.googleusercontent.com/static/fonts/asap/v2/QnZU7dKCBgkkMBlac2djsOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
-    background: url("../img/background.jpg") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;}
+    padding:0 30 0 30}
 .nav{background-color: #D3360B;}
 div.row{margin: 0px}
 p{font-size: 1.25em;}
