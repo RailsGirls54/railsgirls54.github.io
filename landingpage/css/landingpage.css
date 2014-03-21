@@ -45,9 +45,6 @@ p{font-size: 1.25em;}
 section.schedule.home-item h3 {
     margin-bottom: 0; color: #D3360B; font-size: 24px;
 }
-section.schedule.home-item ul.events li time {
-    font-weight: bold; font-style: italic;
-}
 
 section.schedule.home-item div.title {
     /*background: #e7730c;*/
@@ -56,21 +53,11 @@ section.schedule.home-item div.title {
 section.schedule.home-item .day {
     width: 240px; float: left; display: inline; padding: 0;
 }
-section.schedule.home-item .timeframe {
-    width: 240px; float: left; display: inline; padding: 0;
-}
+
 section.schedule.home-item .day h3 {
     text-align: center; padding: 15px 20px;
 }
-section.schedule.home-item .timeframe h3 {
-    text-align: center; padding: 15px 20px;
-}
-section.schedule.home-item .day.alt {
-    background: rgba(0, 0, 0, 0.02);
-}
-section.schedule.home-item .timeframe.alt {
-    background: rgba(0, 0, 0, 0.02);
-}
+
 
 section.schedule.home-item .day ul.events li span {
     *display: inline;
