@@ -1,0 +1,124 @@
+body {margin:0 0 0 0;
+	  width: 100%;
+	  height: 100%;
+	  font-family: 'Asap';
+	  font-style: italic;
+	  font-weight: 400;
+	  /*src: local('Asap Italic'), local('Asap-Italic'), url(https://themes.googleusercontent.com/static/fonts/asap/v2/QnZU7dKCBgkkMBlac2djsOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');*/
+	  padding: 0 30px 0 30px;
+}
+.nav{background-color: #D3360B;}
+div.row{margin: 0px}
+p{font-size: 1.25em;}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.navex{
+    position: fixed;
+}
+.sect_register{
+    padding-top: 100px;
+}
+.sect{
+    padding-top: 100px;
+    height: 700px;
+}
+@media (max-width: 860px) {
+    #brand{
+        /*display: none;*/
+	}
+}
+#mc_embed_signup{
+    background:#fff;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif; }
+
+.teampic{
+    /*float: left;
+    margin-right: 30px;
+    margin-bottom: 90px;*/
+    margin-bottom: 25px;
+}
+/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+section.schedule.home-item h3 {
+    margin-bottom: 0; color: #D3360B; font-size: 24px;
+}
+section.schedule.home-item ul.events li time {
+    font-weight: bold; font-style: italic;
+}
+
+section.schedule.home-item div.title {
+    /*background: #e7730c;*/
+    font-size: 2em;
+}
+section.schedule.home-item .day {
+    width: 240px; float: left; display: inline; padding: 0;
+}
+section.schedule.home-item .timeframe {
+    width: 240px; float: left; display: inline; padding: 10px;
+}
+section.schedule.home-item .day h3 {
+    text-align: center; padding: 15px 20px;
+}
+section.schedule.home-item .timeframe h3 {
+    text-align: center; padding: 15px 20px;
+}
+section.schedule.home-item .timeframe h3 {
+    text-align: center; padding: 35px 20px;
+}
+section.schedule.home-item .day.alt {
+    background: rgba(0, 0, 0, 0.02);
+}
+section.schedule.home-item .timeframe.alt {
+    background: rgba(0, 0, 0, 0.02);
+}
+section.schedule.home-item .day ul.events {
+    list-style: none; padding: 0;margin: 0;
+}
+section.schedule.home-item .timeframe ul.events {
+    list-style: none; padding: 0;margin: 0;
+}
+section.schedule.home-item .day ul.events li {
+    padding: 1.0em 10px; vertical-align: top;
+}
+section.schedule.home-item .day ul.events li time {
+    display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block;
+    vertical-align: middle; *vertical-align: auto; vertical-align: top;
+    color: #9199a3; width: 60px; margin: 0 10px; font-size: 12px;
+}
+section.schedule.home-item .timeframe ul.events p {
+    text-align: center;
+}
+section.schedule.home-item .timeframe ul.events li time {
+    color: #9199a3;
+    font-size: 0.8em;
+}
+section.schedule.home-item .day ul.events li time {
+    *display: inline;
+}
+section.schedule.home-item .day ul.events li span {
+    display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block;
+    vertical-align: middle; *vertical-align: auto; vertical-align: top;
+    width: 130px;
+}
+section.schedule.home-item .day ul.events li span {
+    *display: inline;
+}
+.clear {
+    clear: both;
+}
+
+.team-detail {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+ul.nav a {
+    color: black;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
+    border: 0px;
+}
