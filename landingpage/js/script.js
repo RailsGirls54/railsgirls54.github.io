@@ -19,7 +19,7 @@ $(function() {
 	};
 
 	// registration
-	$('#join, .joinlink').click(function(e) {
+	$('body').on('click', '.join', function(e) {
 		e.preventDefault();
 		var $this = $(this);
 		if($('#mc_embed_signup').is(':visible'))
