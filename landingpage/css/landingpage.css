@@ -125,21 +125,21 @@ section.schedule.home-item .day ul.events li span {
 	display: inline;
 }
 /* team */
-#coaches{}
-#coaches .team-member{
+#team{}
+#team .team-member{
 	margin-bottom: 25px;
 }
-#coaches .team-member img{
+#team .team-member img{
 	display: inline-block;
 	border-radius: 50px;
 	vertical-align: middle;
 }
-#coaches .team-member .team-detail {
+#team .team-member .team-detail {
 	display: inline-block;
 	margin-left: 25px;
 	vertical-align: middle;
 }
-#coaches .team-member .team-detail h3{
+#team .team-member .team-detail h3{
 	text-transform: uppercase;
 }
 /* mailchimp */
