@@ -6,39 +6,29 @@
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/landingpage.css">
 		<link rel="icon" type="image/png" href="img/favicon.png">
-		<link href="https://fonts.googleapis.com/css?family=Asap:400italic,400,700italic,700" rel="stylesheet" type="text/css">
-		<link href="https://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 	</head>
-	
+
 	<body data-spy="scroll" data-target="#header">
-		<div id="mc_embed_signup" class="sect_register" ng-include="'html/mailchimp.html'"></div>
-		
 		<div id="header" class="navbar navbar-fixed-top">
-			
-			<ul id="navigation" class="nav nav-tabs navigation" data-offset-top="100">
+			<ul id="navigation" class="nav nav-tabs navigation">
 				<li class="active"><a href="#about">About</a></li>
 				<li><a href="#events">Events</a></li>
 				<li><a href="#program">Program</a></li>
 				<li><a href="#team">Team</a></li>
 			</ul>
-			
 			<div id="brand" class="brand">
 				<img src="img/railsgirls54-logo.png" alt="RailsGirls54 logo">
 			</div>
-			
-			<div id="joiner">
-				<button id="join" type="submit" class="join btn btn-default">Join us</button>
-			</div>
-			
 		</div>
-		
-		<div id="about" class="row sect" ng-include="'html/about.html'"></div>
-        <hr>
-		<div id="events" class="row sect" ng-include="'html/events.html'"></div>
-        <hr>
-		<div id="program" class="row sect" ng-include="'html/program.html'"></div>
-        <hr>
-		<div id="team" class="row sect" ng-include="'html/coaches.html'"></div>
+
+		<div id="about" class="row sect col-md-12 col-centered about" ng-include="'html/about.html'"></div>
+		<div id="events" class="row sect col-md-12 col-centered" ng-include="'html/events.html'"></div>
+		<div id="program" class="row sect col-md-12 col-centered" ng-include="'html/program.html'"></div>
+		<div id="team" class="row sect col-md-12 col-centered" ng-include="'html/team.html'"></div>
+
+		<footer id="footer">
+			&hearts; 2014 - Rails Girls 54 - Free University of Bolzano-Bozen
+		</footer>
 		
 		<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js"></script>
