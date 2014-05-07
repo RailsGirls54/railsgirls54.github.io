@@ -155,11 +155,14 @@ blockquote{
 	vertical-align: middle;
 	z-index: 2;
 }
-#team .team-member h3{
+#team .team-member p.name{
+	color: #d3360b;
 	display: inline-block;
-	margin-left: 20px;
+	font-size: 24px;
+	font-weight: 500;
+	margin: 40px 0 10px 20px;
 }
-#team .team-member p{
+#team .team-member p.pickup{
 	background: #fafafa;
 	margin: 0 50px;
 	padding: 40px;
