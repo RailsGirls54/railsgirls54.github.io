@@ -109,6 +109,9 @@ blockquote{
 	opacity: 1;
 	-webkit-filter: grayscale(0%);
 }
+#map{
+    padding: 15px 0;
+}
 /*events*/
 .event{
 	min-height: 220px;
