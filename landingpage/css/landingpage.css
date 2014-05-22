@@ -109,6 +109,13 @@ blockquote{
 	opacity: 1;
 	-webkit-filter: grayscale(0%);
 }
+#sponsors a img{
+    -webkit-transform: scale(1, 1);
+    -webkit-transition: -webkit-transform 100ms linear;
+}
+#sponsors a:hover img{
+    -webkit-transform: scale(1.2, 1.2);
+}
 #map{
     padding: 15px 0;
 }
