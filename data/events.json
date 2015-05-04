@@ -1,0 +1,26 @@
+[  
+    {
+        "title": "Bolzano-Bozen",
+        "start": "2015-05-15T17:00:00+02:00",
+        "end": "2015-05-17T18:00:00+02:00",
+        "place": {
+            "text": "Free University of Bolzano-Bozen",
+            "coordinates": {
+                "lat": 46.497987,
+                "lng": 11.350155
+            }
+        }
+    },
+    {
+        "title": "Trento",
+        "start": "2015-05-29T17:00:00+02:00",
+        "end": "2015-05-31T18:00:00+02:00",
+        "place": {
+            "text": "TBA",
+            "coordinates": {
+                "lat": null,
+                "lng": null
+            }
+        }
+    }
+]

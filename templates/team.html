@@ -1,0 +1,8 @@
+<h2>Team</h2>
+<div class="team-member" ng-repeat="member in team">
+	<img alt="{{member.name}}" ng-src="assets/img/team/{{member.name | lowercase}}.jpg"/>
+	<p class="name">{{member.name}}</p>
+	<p class="tagline">
+        {{member.tagline}}
+	</p>
+</div>

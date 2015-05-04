@@ -1,2 +1,2 @@
-# front-server
-### a Sails application
+#Rails Girls 54
+This is the repository of the "official" Rails Girls 54 website. RG54 is a project by the Free University of Bolzano-Bozen in Italy that, based on the original [RailsGirls](http://www.railsgirls.com) idea, brings knowledge and tools for realizing their ideas to its participants.

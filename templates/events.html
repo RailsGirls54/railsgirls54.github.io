@@ -1,0 +1,11 @@
+<h2>Events</h2>
+<ul class="list-unstyled">
+	<li class="event" ng-repeat="event in events">
+		<h3>{{event.title}}</h3>
+		<time datetime="{{event.start}}">{{event.start | date}}</time> -
+		<time datetime="{{event.end}}">{{event.end | date}}</time>
+		<p>
+			{{event.place.text}}
+		</p>
+	</li>
+</ul>
