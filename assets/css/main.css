@@ -44,18 +44,17 @@ blockquote {
 	max-width: 750px;
 }
 
-.btn-facebook,
-.btn-facebook:visited {
-	background-color: #3b5998;
-	border: 1px solid #dfe3ee;
-	color: #fff;
+.btn-fcb,
+.btn-fcb:visited {
+	border: 1px solid #3b5998;
+	color: #3b5998;
 	font-style: normal !important;
 }
 
-.btn-facebook:hover {
-	background: #dfe3ee;
+.btn-fcb:hover {
+	background: #3b5998;
 	border: 1px solid #3b5998;
-	color: #3b5998;
+	color: #fff;
 }
 
 header {
