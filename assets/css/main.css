@@ -44,6 +44,18 @@ blockquote {
 	max-width: 750px;
 }
 
+.btn-primary,
+.btn-primary:visited {
+	background-color: #d3360b;
+	border-color: #b4320e;
+	color: #fafafa;
+}
+
+.btn-primary:hover {
+	background-color: #b4320e;
+	border-color: #d3360b;
+}
+
 .btn-fcb,
 .btn-fcb:visited {
 	border: 1px solid #3b5998;
@@ -170,6 +182,14 @@ footer {
 #events .event p.text {
 	font-size: 1.15em;
 	margin: 15px 0;
+}
+
+#events #sign-up-faq {
+	margin-top: 50px;
+}
+
+#events #sign-up-faq h4 + p {
+	margin-bottom: 30px;
 }
 /* team */
 
