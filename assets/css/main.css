@@ -163,11 +163,11 @@ footer {
 	text-align: center;
 }
 
-#events .event time {
+#events .event p.time {
 	color: #a9a9a9;
 }
 
-#events .event p {
+#events .event p.text {
 	font-size: 1.15em;
 	margin: 15px 0;
 }
