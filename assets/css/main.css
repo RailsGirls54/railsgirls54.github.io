@@ -154,11 +154,12 @@ footer {
 
 #events .event {
 	display: inline-block;
-	min-height: 300px;
-	padding: 30px 10px;
+	height: 330px;
+	padding: 30px;
+	position: relative;
 	text-align: center;
 	vertical-align: top;
-	width: 300px;
+	width: 330px;
 }
 
 #events .event:nth-child(odd) {
@@ -181,15 +182,35 @@ footer {
 
 #events .event p.text {
 	font-size: 1.15em;
-	margin: 15px 0;
+}
+
+#events .event p.detail {
+	color: #505050;
+	font-size: 0.85em;
+}
+#events .event div.map {
+	left: 0;
+	opacity: 0;
+	position: absolute;
+	transition: opacity 150ms linear;
+	top: 0;
+	z-index: 2;
+}
+#events .event:hover div.map {
+	opacity: 1;
+}
+#events .event .signup {
+	margin-top: 40px;
+	position: relative;
+	z-index: 3
 }
 
 #events #sign-up-faq {
 	margin-top: 50px;
 }
 
-#events #sign-up-faq h4 + p {
-	margin-bottom: 30px;
+#events #sign-up-faq p + h4 {
+	margin-top: 40px;
 }
 /* team */
 

@@ -9,7 +9,15 @@
 		<p class="text">
 			{{event.place.text}}
 		</p>
-		<a class="btn btn-primary signup" href="{{event.signup.url}}" title="sign up" target="_blank" ng-show="{{event.signup.open}}">&hearts; sign up &hearts;</a>
+		<p class="detail">
+			{{event.place.detail}}
+		</p>
+		<a class="btn btn-primary btn-block signup" href="{{event.signup}}" title="sign up" target="_blank" ng-if="event.signup">&hearts; sign up &hearts;</a>
+		<div class="map">
+			<a title="Open location with Google Maps" href="{{event.place.maplink}}" target="_blank">
+				<img alt="map" ng-src="http://maps.googleapis.com/maps/api/staticmap?size=330x330&zoom=15&center={{event.place.lat}},{{event.place.lng}}&markers={{event.place.lat}},{{event.place.lng}}" />
+			</a>
+		</div>
 	</li>
 </ul>
 <div id="sign-up-faq">

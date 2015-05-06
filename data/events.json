@@ -5,30 +5,24 @@
 		"end": "2015-05-17T18:00:00+02:00",
 		"place": {
 			"text": "Free University of Bolzano-Bozen",
-			"coordinates": {
-				"lat": 46.497987,
-				"lng": 11.350155
-			}
+			"detail": "F6",
+			"maplink": "https://goo.gl/maps/rph8V",
+			"lat": 46.497987,
+			"lng": 11.350155
 		},
-		"signup": {
-			"open": true,
-			"url": "http://goo.gl/forms/UrHeFbqfTv"
-		}
+		"signup": "https://goo.gl/forms/UrHeFbqfTv"
     },
 	{
 		"title": "Trento",
 		"start": "2015-05-29T17:00:00+02:00",
 		"end": "2015-05-31T18:00:00+02:00",
 		"place": {
-			"text": "University of Trento",
-			"coordinates": {
-				"lat": 46.066782,
-				"lng": 11.123082
-			}
+			"text": "Università di Trento",
+			"detail": "Dipartimento di Sociologia e Ricerca Sociale",
+			"maplink": "https://goo.gl/maps/8XQ9V",
+			"lat": 46.0664387,
+			"lng": 11.1195454
 		},
-		"signup": {
-			"open": false,
-			"url": null
-		}
+		"signup": null
     }
 ]
