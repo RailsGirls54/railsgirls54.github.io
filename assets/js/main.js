@@ -16,19 +16,19 @@ $(function () {
 
 	// controller
 	app.controller('eventCtrl', ['$scope', '$http', function ($scope, $http) {
-		$http.get('/data/events.json')
+		$http.get('data/events.json')
 			.success(function (data) {
 				$scope.events = data;
 			});
     }]);
 	app.controller('teamCtrl', ['$scope', '$http', function ($scope, $http) {
-		$http.get('/data/team.json')
+		$http.get('data/team.json')
 			.success(function (data) {
 				$scope.team = data;
 			});
     }]);
 	app.controller('supporterCtrl', ['$scope', '$http', function ($scope, $http) {
-		$http.get('/data/supporters.json')
+		$http.get('data/supporters.json')
 			.success(function (data) {
 				$scope.supporters = data;
 			});
@@ -38,31 +38,31 @@ $(function () {
 	app.directive('about', function () {
 		return {
 			restrict: 'A',
-			templateUrl: '/templates/about.html'
+			templateUrl: 'templates/about.html'
 		};
 	});
 	app.directive('events', function () {
 		return {
 			restrict: 'A',
-			templateUrl: '/templates/events.html'
+			templateUrl: 'templates/events.html'
 		};
 	});
 	app.directive('program', function () {
 		return {
 			restrict: 'A',
-			templateUrl: '/templates/program.html'
+			templateUrl: 'templates/program.html'
 		};
 	});
 	app.directive('team', function () {
 		return {
 			restrict: 'A',
-			templateUrl: '/templates/team.html'
+			templateUrl: 'templates/team.html'
 		};
 	});
 	app.directive('supporter', function () {
 		return {
 			restrict: 'A',
-			templateUrl: '/templates/supporter.html'
+			templateUrl: 'templates/supporter.html'
 		};
 	});
 
