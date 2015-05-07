@@ -5,7 +5,7 @@
     },
     {
         "name": "David",
-        "tagline": "David loves to escape from the world of bits and bytes, to be outside. Especially where sun, wind, and water come together. That combined with good music and he's at peace."
+        "tagline": "David loves to escape from the world of bits and bytes, to be outside. Especially where sun, wind, and water come together. Put some good music on and he's at peace."
     },
     {
         "name": "Dron",
@@ -18,5 +18,9 @@
     {
         "name": "Sven",
         "tagline": "Swedish name, German citizenship, Italian residence, and British-style humor: Sven is now a professor of computer science in South Tyrol."
+    },
+	{
+        "name": "Kevin",
+        "tagline": "Kevin likes running far and long, sometimes even on his bare feet.  Besides, he loves traveling and exploring new places. When at work, he likes to play with data structures, algorithms and, you guessed it, ruby!"
     }
 ]
