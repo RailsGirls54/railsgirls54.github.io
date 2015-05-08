@@ -245,7 +245,9 @@ footer {
 	z-index: 1;
 }
 /*supporter*/
-
+#supporter{
+	text-align: left;
+}
 #supporter ul {
 	text-align: center;
 }
@@ -254,12 +256,12 @@ footer {
 	opacity: 0.4;
 	padding: 0 15px;
 	filter: grayscale(100%);
-	transform: scale(1, 1);
+	transform: scale(0.6, 0.6);
 	transition: opacity 300ms linear, filter 300ms linear, transform 100ms linear;
 }
 
 #supporter a:hover img {
 	opacity: 1;
 	filter: grayscale(0%);
-	transform: scale(1.2, 1.2);
+	transform: scale(1, 1);
 }
