@@ -22,5 +22,29 @@
 	{
         "name": "Kevin",
         "tagline": "Kevin likes running far and long, sometimes even on his bare feet.  Besides, he loves traveling and exploring new places. When at work, he likes to play with data structures, algorithms and, you guessed it, ruby!"
+    },
+	{
+        "name": "Hannes",
+        "tagline": "Hannes loves flying, but when not up in the air he also enjoys being out in the nature for hiking. His soft spot is definitely food - give him a cookie and he is all yours."
+    },
+	{
+        "name": "Edona",
+        "tagline": "Edona loves playing around with low-level programming languages and hardware in general and when she is outside of the binary world, she likes to make new friends and get in touch with new cultures! "
+    },
+	{
+        "name": "Aurelia",
+        "tagline": "Aurelia while at work enjoys playing with bash scripts, databases and finding the nerdiest t-shirts of the moment. Besides she likes very much dancing and travelling!"
+    },
+	{
+        "name": "Aristea",
+        "tagline": "Aristea loves to explore the surroundings and photographing - when she's not indoors studying Computer Science with a bunch of guys or trying to overcome her TV series addiction. Back to her social interactions, she loves travelling and playing the guitar."
+    },
+	{
+        "name": "Luca",
+        "tagline": "Climbing, skiing, good friends and, of course, a PC: that all I need to enjoy my days when I'm not trying to studying and making PRs at the University!"
+    },
+	{
+        "name": "Tiziano",
+        "tagline": "Tiziano expresses his creativity through photograpy, especially when travelling. Moreover, he is also very interested in rocket computer science."
     }
 ]
