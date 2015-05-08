@@ -189,6 +189,7 @@ footer {
 	color: #505050;
 	font-size: 0.85em;
 }
+
 #events .event div.map {
 	left: 0;
 	opacity: 0;
@@ -197,9 +198,11 @@ footer {
 	top: 0;
 	z-index: 2;
 }
+
 #events .event:hover div.map {
 	opacity: 1;
 }
+
 #events .event .signup {
 	margin-top: 40px;
 	position: relative;
@@ -249,9 +252,11 @@ footer {
 	z-index: 1;
 }
 /*supporter*/
-#supporter{
+
+#supporter {
 	text-align: left;
 }
+
 #supporter ul {
 	text-align: center;
 }
