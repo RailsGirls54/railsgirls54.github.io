@@ -46,5 +46,13 @@
 	{
         "name": "Tiziano",
         "tagline": "Tiziano expresses his creativity through photograpy, especially when travelling. Moreover, he is also very interested in rocket computer science."
+    },
+	{
+        "name": "Maria",
+        "tagline": "Maria likes to cook and she loves running. She is a wanna-be-geek inloved of the startup world."
+    },
+	{
+        "name": "Veronica",
+        "tagline": "Loading..."
     }
 ]
