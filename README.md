@@ -1,4 +1,4 @@
 #Rails Girls 54
 This is the repository of the "official" [Rails Girls 54](http://www.railsgirls54.com) website. RG54 is a project by the Free University of Bolzano-Bozen in Italy that, based on the original [RailsGirls](http://www.railsgirls.com) idea, brings knowledge and tools for realizing their ideas to its participants.
 ##Hosting on GitHub
-The master branch is automatically published, according to [GitHub's "User, Organization, and Projec Pages"](https://help.github.com/articles/user-organization-and-project-pages/). Please make sure to commit/push to develop branches instead of the _master_ branch directly. Merge only after verifying that the contents are correct.
+The master branch is automatically published, according to [GitHub's "User, Organization, and Project Pages"](https://help.github.com/articles/user-organization-and-project-pages/). Please make sure to commit/push to develop branches instead of the _master_ branch directly. Merge only after verifying that the contents are correct.
