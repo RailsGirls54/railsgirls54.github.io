@@ -40,6 +40,15 @@ blockquote {
 	padding-right: 80px;
 }
 
+.alert{
+	border-radius: 3px;
+}
+.alert.alert-info{
+	background: none;
+	border-color: #bbb;
+	color: #555;
+}
+
 .container {
 	max-width: 750px;
 }

@@ -1,0 +1,7 @@
+{
+  "name": "RailsGirls54",
+  "homepage": "http://www.railsgirls54.com",
+  "devDependencies": {
+    "gulp-serve": "^1.2.0"
+  }
+}
