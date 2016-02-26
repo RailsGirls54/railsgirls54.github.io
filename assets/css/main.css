@@ -39,6 +39,9 @@ blockquote {
 	text-align: justify;
 	padding-right: 80px;
 }
+address {
+	padding-left: 15px;
+}
 
 .alert{
 	border-radius: 3px;
