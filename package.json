@@ -2,6 +2,7 @@
   "name": "RailsGirls54",
   "homepage": "http://www.railsgirls54.com",
   "devDependencies": {
+	"gulp": "^3.9.0",
     "gulp-serve": "^1.2.0"
   }
 }
