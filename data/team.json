@@ -1,57 +1,86 @@
 [
     {
         "name": "Alex",
+        "img": "alex",
 		"role": "Organization",
         "tagline": "Alex is well known for eating: once he starts, nobody can stop him - he's a gourmet! During the daytime he studies the science of computers, while in the night he wears the headphones and rocks the clubs as a DJ."
     },
     {
         "name": "David",
+        "img": "david",
 		"role": "Organization",
         "tagline": "David loves to escape from the world of bits and bytes, to be outside. Especially where sun, wind, and water come together. Put some good music on and he's at peace."
     },
     {
         "name": "Dron",
+        "img": "dron",
 		"role": "Organization",
         "tagline": "Dron believes \"Food is like Love. It should be entered in abundance or not at all\" So he LOVES COOKING and catering people even more. AND to keep this cycle running, he works on his computer as well!!!"
     },
     {
         "name": "Julian",
+        "img": "julian",
 		"role": "Organization",
         "tagline": "Julian loves the nature and the sun: once he is outdoors from the computer science labs he likes to hike around in the mountains or can be found on a fixed-rope trail. Nobody can stop him to jump in the water if a lake is around."
     },
     {
         "name": "Sven",
+        "img": "sven",
 		"role": "Organization",
         "tagline": "Swedish name, German citizenship, Italian residence, and British-style humor: Sven is now a professor of computer science in South Tyrol."
     },
 	{
         "name": "Luca",
+        "img": "luca",
 		"role": "Organization",
         "tagline": "Climbing, skiing, good friends and, of course, a PC: that all I need to enjoy my days when I'm not trying to studying and making PRs at the University!"
     },
 	{
         "name": "Enxhi",
+        "img": "enxhi",
 		"role": "Helper",
         "tagline": "Enxhi loves nature. She studies Computer Science. She is also very passionate about organizing and helping others in any way she can. Even though sometimes she takes this stuff to seriously."
     },
 	{
         "name": "Marco",
+        "img": "marco",
 		"role": "Helper",
         "tagline": "Marco always talks a lot about something he is doing (when actually he talks), but then you find out he just watches movies and walks around. Sometimes he codes too! He is a dreamer.. So he naps a lot."
     },
 	{
         "name": "Christian",
+        "img": "christian",
 		"role": "Helper",
         "tagline": "He loves photography, Startups, and travelling."
     },
 	{
         "name": "Isabel",
+        "img": "isabel",
 		"role": "Helper",
         "tagline": "Loves chocolate since1994. Visual communication, creative thinking and photography constitute her main professional interests and passions. Constantly looking for new opportunities to express her creative talents, communication abilities and technical skills. Her major interest is in the field of communication design, graphic design, art direction and advertising."
     },
 	{
         "name": "Ngoc",
+        "img": "ngoc",
 		"role": "Helper",
         "tagline": "I am now a first year PhD student. I love nature and the beauty it brings, where I can find new motivations and new ways of inspiring myself."
+    },
+	{
+        "name": "Luca",
+		"img": "lucam",
+		"role": "Helper",
+		"tagline": "studies economics, plays hockey, drinks a lot, eats more than necessary and loves to party."
+    },
+	{
+        "name": "Elia",
+        "img": "elia",
+		"role": "Helper",
+		"tagline": "I’m Elia, 22 years old, born in Bolzano. I study mechanical engineering at the University of Bolzano. My hobbies are music and event organizing, I play as a Dj in few clubs in Bolzano and I’m part of Uni-Party Bolzano, an association that organize events and parties in Bolzano."
+    },
+	{
+        "name": "Filippo",
+        "img": "filippo",
+		"role": "Helper",
+        "tagline": "Probably the least educated person of the team, but hey last year I didn't even know rails, and no one realized.... anyways, I love teaching, and love helping people. I am in the second year of CS, and probably much younger then you expect."
     }
 ]

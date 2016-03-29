@@ -1,8 +1,20 @@
 {
-  "name": "RailsGirls54",
-  "homepage": "http://www.railsgirls54.com",
+  "name": "railsgirls54",
+  "version": "0.1.0",
+  "description": "website of the RG54 events",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RailsGirls54/railsgirls54.github.io.git"
+  },
+  "author": "david vnl <david@davole.com> (http://davole.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RailsGirls54/railsgirls54.github.io/issues"
+  },
+  "homepage": "https://github.com/RailsGirls54/railsgirls54.github.io#readme",
   "devDependencies": {
-	"gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-serve": "^1.2.0"
   }
 }
