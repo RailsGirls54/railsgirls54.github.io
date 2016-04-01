@@ -1,7 +1,7 @@
 <h2>Team</h2>
 <h3 class="separated">Organization</h3>
 <div class="team-member" ng-repeat="member in team | filter:'Organization' | orderBy:'name'">
-	<img alt="{{member.name}}" ng-src="assets/img/team/{{member.name | lowercase}}.jpg"/>
+	<img alt="{{member.name}}" ng-src="assets/img/team/{{member.img | lowercase}}.jpg"/>
 	<p class="name">{{member.name}}</p>
 	<p class="tagline">
         {{member.tagline}}
