@@ -88,5 +88,11 @@
         "img": "francesco",
 		"role": "Helper",
         "tagline": "2nd year Computer Science student, DJ & Producer, Couch Potato... What a busy life! Interested in web graphics and trends. I see myself as a social animal, mostly after 10PM and after the 3rd beer."
+    },
+	{
+        "name": "Hannes",
+        "img": "hannes",
+		"role": "Helper",
+        "tagline": "Hannes loves flying, but when not up in the air he also enjoys being out in the nature for hiking. His soft spot is definitely food - give him a cookie and he is all yours."
     }
 ]
