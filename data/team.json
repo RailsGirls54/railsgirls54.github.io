@@ -82,5 +82,11 @@
         "img": "filippo",
 		"role": "Helper",
         "tagline": "Probably the least educated person of the team, but hey last year I didn't even know rails, and no one realized.... anyways, I love teaching, and love helping people. I am in the second year of CS, and probably much younger then you expect."
+    },
+	{
+        "name": "Francesco",
+        "img": "francesco",
+		"role": "Helper",
+        "tagline": "2nd year Computer Science student, DJ & Producer, Couch Potato... What a busy life! Interested in web graphics and trends. I see myself as a social animal, mostly after 10PM and after the 3rd beer."
     }
 ]
