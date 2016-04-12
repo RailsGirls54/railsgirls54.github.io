@@ -94,5 +94,11 @@
         "img": "hannes",
 		"role": "Helper",
         "tagline": "Hannes loves flying, but when not up in the air he also enjoys being out in the nature for hiking. His soft spot is definitely food - give him a cookie and he is all yours."
+    },
+	{
+        "name": "Florian",
+        "img": "florian",
+		"role": "Helper",
+        "tagline": "Full time student, full time worker, full time adventurer: whenever he's not hitting the road, he's up to some volunteering, and of course, partyyyinng!"
     }
 ]
