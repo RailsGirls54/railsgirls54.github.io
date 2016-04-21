@@ -21,6 +21,12 @@ $(function () {
 				$scope.events = data;
 			});
     }]);
+	app.controller('programCtrl', ['$scope', '$http', function ($scope, $http) {
+		$http.get('data/program.json')
+			.success(function (data) {
+				$scope.program = data;
+			});
+    }]);
 	app.controller('teamCtrl', ['$scope', '$http', function ($scope, $http) {
 		$http.get('data/team.json')
 			.success(function (data) {

@@ -1,0 +1,136 @@
+{
+  "friday":[
+     {
+        "time":"17:00",
+        "text":"Registration and Installation"
+     },
+     {
+        "time":"18:30",
+        "text":"Welcome"
+     },
+     {
+        "time":"19:00",
+        "text":"Starter Application"
+     },
+     {
+        "time":"20:15",
+        "text":"Dinner"
+     },
+     {
+        "time":"21:15",
+        "text":"Intro to Modern Web Technologies"
+     },
+     {
+        "time":"23:00",
+        "text":"Venue Closes"
+     }
+  ],
+  "saturday":[
+     {
+        "time":"10:00",
+        "text":"Breakfast"
+     },
+     {
+        "time":"10:30",
+        "text":"Recap"
+     },
+     {
+        "time":"11:00",
+        "text":"Templates, Packages, Interactivity"
+     },
+     {
+        "time":"11:45",
+        "text":"Break"
+     },
+     {
+        "time":"12:00",
+        "text":"Database and User Authentication"
+     },
+     {
+        "time":"12:45",
+        "text":"Socializing"
+     },
+     {
+        "time":"13:00",
+        "text":"Lunch"
+     },
+     {
+        "time":"14:30",
+        "text":"Idea Presentation"
+     },
+     {
+        "time":"15:00",
+        "text":"Advanced Features"
+     },
+     {
+        "time":"16:00",
+        "text":"Break"
+     },
+     {
+        "time":"16:30",
+        "text":"Structure and Routing"
+     },
+     {
+        "time":"17:30",
+        "text":"Deploying"
+     },
+     {
+        "time":"18:30",
+        "text":"Project Start"
+     },
+     {
+        "time":"20:15",
+        "text":"Dinner"
+     },
+     {
+        "time":"21:00",
+        "text":"Free Coding"
+     },
+     {
+        "time":"23:00",
+        "text":"Venue closes"
+     }
+  ],
+  "sunday":[
+     {
+        "time":"10:00",
+        "text":"Breakfast"
+     },
+     {
+        "time":"10:30",
+        "text":"Recap"
+     },
+     {
+        "time":"11:00",
+        "text":"Free Coding"
+     },
+     {
+        "time":"11:30",
+        "text":"Break"
+     },
+     {
+        "time":"11:45",
+        "text":"Free Coding"
+     },
+     {
+        "time":"13:00",
+        "text":"Lunch"
+     },
+     {
+        "time":"14:00",
+        "text":"Free Coding"
+     },
+     {
+        "time":"16:00",
+        "text":"Break"
+     },
+     {
+        "time":"16:15",
+        "text":"Project Presentation"
+     },
+     {
+        "time":"18:00",
+        "text":"Goodbye"
+     }
+  ]
+}
