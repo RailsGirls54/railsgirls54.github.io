@@ -100,5 +100,11 @@
         "img": "erdal",
 		"role": "Helper",
         "tagline": "Hello! I'm a CS student passionate about technology, history and psychology. Always able to enjoy a cup of coffee and a challenging chess game."
+    },
+	{
+        "name": "Mercy",
+        "img": "mercy",
+		"role": "Helper",
+        "tagline": "I'm a first year masters student in Computer Science. I love eating, sleeping and reading comics. I'm pretty much an old person in a 20something's body."
     }
 ]
