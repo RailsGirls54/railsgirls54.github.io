@@ -42,12 +42,6 @@
         "tagline": "Enxhi loves nature. She studies Computer Science. She is also very passionate about organizing and helping others in any way she can. Even though sometimes she takes this stuff to seriously."
     },
 	{
-        "name": "Marco",
-        "img": "marco",
-		"role": "Helper",
-        "tagline": "Marco always talks a lot about something he is doing (when actually he talks), but then you find out he just watches movies and walks around. Sometimes he codes too! He is a dreamer.. So he naps a lot."
-    },
-	{
         "name": "Christian",
         "img": "christian",
 		"role": "Helper",
@@ -90,15 +84,21 @@
         "tagline": "2nd year Computer Science student, DJ & Producer, Couch Potato... What a busy life! Interested in web graphics and trends. I see myself as a social animal, mostly after 10PM and after the 3rd beer."
     },
 	{
-        "name": "Hannes",
-        "img": "hannes",
-		"role": "Helper",
-        "tagline": "Hannes loves flying, but when not up in the air he also enjoys being out in the nature for hiking. His soft spot is definitely food - give him a cookie and he is all yours."
-    },
-	{
         "name": "Florian",
         "img": "florian",
 		"role": "Helper",
         "tagline": "Full time student, full time worker, full time adventurer: whenever he's not hitting the road, he's up to some volunteering, and of course, partyyyinng!"
+    },
+	{
+        "name": "Luca",
+        "img": "lucas",
+		"role": "Helper",
+        "tagline": "Hi, I'm Luca. I enjoy watching films and tv series. During my free time I like to party or to practice some sport (doesn't matter which one)."
+    },
+	{
+        "name": "Erdal",
+        "img": "erdal",
+		"role": "Helper",
+        "tagline": "Hello! I'm a CS student passionate about technology, history and psychology. Always able to enjoy a cup of coffee and a challenging chess game."
     }
 ]
