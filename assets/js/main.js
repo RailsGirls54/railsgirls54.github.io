@@ -59,6 +59,12 @@ $(function () {
 			templateUrl: 'templates/program.html'
 		};
 	});
+	app.directive('material', function () {
+		return {
+			restrict: 'A',
+			templateUrl: 'templates/material.html'
+		};
+	});
 	app.directive('team', function () {
 		return {
 			restrict: 'A',
