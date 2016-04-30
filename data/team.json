@@ -102,6 +102,12 @@
         "tagline": "Hello! I'm a CS student passionate about technology, history and psychology. Always able to enjoy a cup of coffee and a challenging chess game."
     },
 	{
+        "name": "Satu",
+        "img": "satu",
+		"role": "Helper",
+        "tagline": "Satu hails from Helsinki, Finland, the birth place of Rails Girls. There she works as Software engineer mostly working with the frontend and React. On her free time, she goes to dance classes and jogging."
+    },
+	{
         "name": "Mercy",
         "img": "mercy",
 		"role": "Helper",
