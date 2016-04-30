@@ -27,6 +27,12 @@ $(function () {
 				$scope.program = data;
 			});
     }]);
+	app.controller('materialCtrl', ['$scope', '$http', function ($scope, $http) {
+		$http.get('data/material.json')
+			.success(function (data) {
+				$scope.material = data;
+			});
+    }]);
 	app.controller('teamCtrl', ['$scope', '$http', function ($scope, $http) {
 		$http.get('data/team.json')
 			.success(function (data) {
